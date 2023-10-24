@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-24T15:57:09.852Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="H-CmbDsX3DZEKL38F0oP" version="22.0.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-10-24T15:58:26.147Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="fuPTmoO1LPtAhEIV47Pk" version="22.0.6" type="github" pages="2">
   <diagram name="IntegrationDomains" id="jsUwI5mRlKOwk8oIy3sb">
     <mxGraphModel dx="1212" dy="823" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
@@ -312,10 +312,10 @@
           <mxGeometry x="155" y="69" width="130" height="26" as="geometry" />
         </mxCell>
         <mxCell id="GddeR_gk6UWAWkvnxlwY-108" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 16px;&quot;&gt;User2OnPremise&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#0076cb;fillColor=#0275CB;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="155" y="580.14" width="130" height="26" as="geometry" />
+          <mxGeometry x="155" y="585.14" width="130" height="26" as="geometry" />
         </mxCell>
         <mxCell id="GddeR_gk6UWAWkvnxlwY-109" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 16px;&quot;&gt;Cloud2Cloud&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#0076cb;fillColor=#0275CB;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="481.14" y="70.00000000000001" width="120" height="26" as="geometry" />
+          <mxGeometry x="481.14" y="69" width="120" height="26" as="geometry" />
         </mxCell>
         <mxCell id="GddeR_gk6UWAWkvnxlwY-110" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 16px;&quot;&gt;Cloud2OnPremise&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#0076cb;fillColor=#0275CB;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="481.14" y="398" width="138.86" height="26" as="geometry" />
@@ -324,10 +324,10 @@
           <mxGeometry x="550" y="575.14" width="120" height="36" as="geometry" />
         </mxCell>
         <mxCell id="GddeR_gk6UWAWkvnxlwY-112" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 16px;&quot;&gt;Thing2Cloud&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#0076cb;fillColor=#0275CB;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="790" y="70" width="130" height="26" as="geometry" />
+          <mxGeometry x="786" y="69" width="130" height="26" as="geometry" />
         </mxCell>
         <mxCell id="GddeR_gk6UWAWkvnxlwY-113" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 16px;&quot;&gt;Thing2OnPremise&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#0076cb;fillColor=#0275CB;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="780" y="580.15" width="130" height="26" as="geometry" />
+          <mxGeometry x="786" y="585.14" width="130" height="26" as="geometry" />
         </mxCell>
         <mxCell id="GddeR_gk6UWAWkvnxlwY-115" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 16px;&quot;&gt;Integration Domain&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#0076cb;fillColor=#0275CB;fontSize=16;align=left;" vertex="1" parent="1">
           <mxGeometry x="20" y="780" width="150" height="26" as="geometry" />
