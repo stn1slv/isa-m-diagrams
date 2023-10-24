@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-10-24T14:45:56.792Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="ACWQLcwIqSl6FcAiyxsY" version="22.0.6" type="github">
-  <diagram name="Page-1" id="jsUwI5mRlKOwk8oIy3sb">
-    <mxGraphModel dx="1013" dy="686" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
+<mxfile host="app.diagrams.net" modified="2023-10-24T15:57:09.852Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="H-CmbDsX3DZEKL38F0oP" version="22.0.6" type="github" pages="2">
+  <diagram name="IntegrationDomains" id="jsUwI5mRlKOwk8oIy3sb">
+    <mxGraphModel dx="1212" dy="823" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -332,6 +332,14 @@
         <mxCell id="GddeR_gk6UWAWkvnxlwY-115" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 16px;&quot;&gt;Integration Domain&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#0076cb;fillColor=#0275CB;fontSize=16;align=left;" vertex="1" parent="1">
           <mxGeometry x="20" y="780" width="150" height="26" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="K4xLwcARSANJ5GHyQXEI" name="IntegrationStyles">
+    <mxGraphModel dx="909" dy="617" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
