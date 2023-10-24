@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-24T16:09:22.124Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="VJ3Y8NaR1MTr9H3BVDNs" version="22.0.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-10-24T16:15:51.130Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="BZrQcuolq_VIUvXX59R1" version="22.0.6" type="github" pages="5">
   <diagram name="IntegrationDomains" id="jsUwI5mRlKOwk8oIy3sb">
     <mxGraphModel dx="1299" dy="881" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
@@ -335,13 +335,46 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="K4xLwcARSANJ5GHyQXEI" name="IntegrationStyles-Archetypes">
+  <diagram id="K4xLwcARSANJ5GHyQXEI" name="IntegrationStyles:Archetypes">
     <mxGraphModel dx="909" dy="617" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="kE3ofuMGhmBBX2jyfdQl-1" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;TBD&lt;/font&gt;&lt;br&gt;&lt;br&gt;&lt;div&gt;Integration StylesFive Fundamental Archetypes of Integration&lt;/div&gt;&lt;div&gt;&amp;nbsp;+ cross case&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="kE3ofuMGhmBBX2jyfdQl-1" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;TBD&lt;/font&gt;&lt;br&gt;&lt;br&gt;&lt;div&gt;Integration StylesFive Fundamental Archetypes of Integration&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="20" y="20" width="350" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="IntegrationStyles:CrossUseCases" id="n81NNzmOxoDcolb7mdvv">
+    <mxGraphModel dx="909" dy="617" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="YpTf24b9TZhnn1Jfd98c-0" />
+        <mxCell id="YpTf24b9TZhnn1Jfd98c-1" parent="YpTf24b9TZhnn1Jfd98c-0" />
+        <mxCell id="YpTf24b9TZhnn1Jfd98c-2" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;TBD&lt;/font&gt;&lt;br&gt;&lt;br&gt;&lt;div&gt;&lt;div&gt;Integration StylesTechnology-Agnostic: Open to SAP and Third Party&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="YpTf24b9TZhnn1Jfd98c-1">
+          <mxGeometry x="20" y="20" width="440" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="IntegrationStyles&amp;UseCasePatterns" id="mEUk4JMlgUPtCc1ohbcU">
+    <mxGraphModel dx="909" dy="617" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="bu0BKx-N2z-HhX42NHVi-0" />
+        <mxCell id="bu0BKx-N2z-HhX42NHVi-1" parent="bu0BKx-N2z-HhX42NHVi-0" />
+        <mxCell id="bu0BKx-N2z-HhX42NHVi-2" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;TBD&lt;/font&gt;&lt;br&gt;&lt;br&gt;&lt;div&gt;&lt;div&gt;Integration Styles and Use Case PatternsTechnology-Agnostic Library of Integration Use Cases&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="bu0BKx-N2z-HhX42NHVi-1">
+          <mxGeometry x="20" y="30" width="350" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="3nEbIGnFIHd4l13L8Smq" name="IntegrationTechnologyMapping">
+    <mxGraphModel dx="909" dy="617" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="YxNp5-wl51hbiv-Ac_---1" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;TBD&lt;/font&gt;&lt;br&gt;&lt;br&gt;&lt;div&gt;&lt;div&gt;Integration Technology MappingOverview&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="20" y="30" width="350" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
