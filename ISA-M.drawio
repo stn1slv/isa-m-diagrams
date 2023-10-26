@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-26T13:55:27.978Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="qJPx_x4b_zxANyoDVGoq" version="22.0.8" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-10-26T15:02:05.920Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="xkpmecT4vE7L7BgKL4em" version="22.0.8" type="github" pages="5">
   <diagram name="IntegrationDomains" id="jsUwI5mRlKOwk8oIy3sb">
     <mxGraphModel dx="1414" dy="917" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
@@ -336,7 +336,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="K4xLwcARSANJ5GHyQXEI" name="IntegrationStyles:Archetypes">
-    <mxGraphModel dx="1414" dy="917" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="906" dy="617" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -404,7 +404,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="IntegrationStyles:CrossUseCases" id="n81NNzmOxoDcolb7mdvv">
-    <mxGraphModel dx="1358" dy="870" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="906" dy="617" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="YpTf24b9TZhnn1Jfd98c-0" />
         <mxCell id="YpTf24b9TZhnn1Jfd98c-1" parent="YpTf24b9TZhnn1Jfd98c-0" />
@@ -592,7 +592,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="IntegrationStyles&amp;UseCasePatterns" id="mEUk4JMlgUPtCc1ohbcU">
-    <mxGraphModel dx="1358" dy="870" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="906" dy="617" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="bu0BKx-N2z-HhX42NHVi-0" />
         <mxCell id="bu0BKx-N2z-HhX42NHVi-1" parent="bu0BKx-N2z-HhX42NHVi-0" />
