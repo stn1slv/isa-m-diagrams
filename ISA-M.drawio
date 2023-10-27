@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-27T12:09:08.353Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="s6R-QHNI0aZcZuPYNP0I" version="22.0.8" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2023-10-27T12:11:53.218Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="kPao8PYgwIVtivackxDv" version="22.0.8" type="github" pages="6">
   <diagram name="IntegrationDomains" id="jsUwI5mRlKOwk8oIy3sb">
     <mxGraphModel dx="1434" dy="917" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
@@ -970,6 +970,18 @@
             <mxPoint x="1360" y="401" as="sourcePoint" />
             <mxPoint x="1150" y="320" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="uTgQOqDn22oYZFfBWTf3-63" value="&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;u&gt;Example:&lt;/u&gt; Lead-to-cash process with integration of SAP Customer Experience and SAP S/4HANA: exchange of sales orders.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#D9EDCB;strokeColor=#D9EDCB;align=left;verticalAlign=top;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="40" y="440" width="290" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="uTgQOqDn22oYZFfBWTf3-64" value="&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;div&gt;&lt;u&gt;Example&lt;/u&gt;: Exchange of business partner master data between SAP S/4HANA and SAP Sales Cloud and SAP Commerce Cloud.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#D9EDCB;strokeColor=#D9EDCB;align=left;verticalAlign=top;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="360" y="440" width="290" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="uTgQOqDn22oYZFfBWTf3-65" value="&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;div&gt;&lt;u&gt;Example&lt;/u&gt;: Design-to-operate process with integration of a manufacturer with suppliers: exchange of purchase orders using B2B standards like ANSI X.12 or UN/EDIFACT.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#D9EDCB;strokeColor=#D9EDCB;align=left;verticalAlign=top;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="680" y="440" width="290" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="uTgQOqDn22oYZFfBWTf3-66" value="&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;div&gt;&lt;u&gt;Example&lt;/u&gt;: File goods and service tax returns from SAP S/4HANA to the Goods and Services Tax Network (GSTN) organization India in prescribed format and protected fashion.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#D9EDCB;strokeColor=#D9EDCB;align=left;verticalAlign=top;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="440" width="290" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
