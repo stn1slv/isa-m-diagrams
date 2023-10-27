@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-27T12:49:20.154Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="dYihCR3tvgIcHmxuAz0z" version="22.0.8" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2023-10-27T12:56:51.285Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="VLnjt_zrNqYYss_qW9Nj" version="22.0.8" type="github" pages="8">
   <diagram name="IntegrationDomains" id="jsUwI5mRlKOwk8oIy3sb">
     <mxGraphModel dx="1434" dy="917" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
@@ -592,7 +592,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="IntegrationStyles&amp;UseCasePatterns" id="mEUk4JMlgUPtCc1ohbcU">
-    <mxGraphModel dx="1434" dy="917" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="906" dy="617" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="bu0BKx-N2z-HhX42NHVi-0" />
         <mxCell id="bu0BKx-N2z-HhX42NHVi-1" parent="bu0BKx-N2z-HhX42NHVi-0" />
@@ -729,7 +729,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="3nEbIGnFIHd4l13L8Smq" name="IntegrationTechnologyMapping">
-    <mxGraphModel dx="1434" dy="917" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="906" dy="617" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -740,7 +740,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="EUbE_s7RyPrP3hnalhZX" name="ProcessIntegrationStyle">
-    <mxGraphModel dx="1509" dy="965" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="954" dy="649" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -987,7 +987,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="DataIntegrationStyle" id="MFzUvWnZFPteaChz1dNn">
-    <mxGraphModel dx="1195" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="755" dy="514" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="XBxVVIDGpWLjxJjyxryL-0" />
         <mxCell id="XBxVVIDGpWLjxJjyxryL-1" parent="XBxVVIDGpWLjxJjyxryL-0" />
@@ -1367,6 +1367,32 @@
             <mxPoint x="1236.5" y="277" as="sourcePoint" />
             <mxPoint x="1236.25" y="250" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="AnalyticsIntegrationStyle" id="AWIY1cIRFo0H1R5T3cq-">
+    <mxGraphModel dx="1176" dy="829" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="E9SLaztuHiyUa4X3Wmyc-0" />
+        <mxCell id="E9SLaztuHiyUa4X3Wmyc-1" parent="E9SLaztuHiyUa4X3Wmyc-0" />
+        <mxCell id="E9SLaztuHiyUa4X3Wmyc-2" value="&lt;div&gt;Cross Application Analytics&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#FFFFFF;fillColor=#4DC5FE;strokeColor=#4DC5FE;fontSize=16;shadow=1;" vertex="1" parent="E9SLaztuHiyUa4X3Wmyc-1">
+          <mxGeometry x="360" y="40" width="290" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E9SLaztuHiyUa4X3Wmyc-3" value="&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;div&gt;&lt;div&gt;&lt;font color=&quot;#000000&quot;&gt;Combine data of one or more source systems using an analytics or data ware-house solution. On top of the combined data an analytic consumption model can be built to enable (cross app) reporting.&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#FFFFFF;fillColor=#FFFFFF;strokeColor=#4DC5FE;fontSize=16;shadow=1;align=center;verticalAlign=top;" vertex="1" parent="E9SLaztuHiyUa4X3Wmyc-1">
+          <mxGeometry x="360" y="100" width="290" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="E9SLaztuHiyUa4X3Wmyc-4" value="&lt;div&gt;Embedded Analytics&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#FFFFFF;fillColor=#4DC5FE;strokeColor=#4DC5FE;fontSize=16;shadow=1;" vertex="1" parent="E9SLaztuHiyUa4X3Wmyc-1">
+          <mxGeometry x="40" y="40" width="290" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E9SLaztuHiyUa4X3Wmyc-7" value="&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;font color=&quot;#000000&quot;&gt;Embed analytical content such as reports and dashboards into a business application.&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#FFFFFF;fillColor=#FFFFFF;strokeColor=#4DC5FE;fontSize=16;shadow=1;align=center;verticalAlign=top;" vertex="1" parent="E9SLaztuHiyUa4X3Wmyc-1">
+          <mxGeometry x="40" y="100" width="290" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="E9SLaztuHiyUa4X3Wmyc-25" value="&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;div&gt;&lt;u&gt;Example&lt;/u&gt;: Treasury Executive Dashboard. By embedding SAP Analytics Cloud into SAP S/4HANA Cloud.&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#D5F1FF;strokeColor=#D5F1FF;align=left;verticalAlign=top;fontSize=14;" vertex="1" parent="E9SLaztuHiyUa4X3Wmyc-1">
+          <mxGeometry x="40" y="440" width="290" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="E9SLaztuHiyUa4X3Wmyc-26" value="&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;u&gt;Example&lt;/u&gt;: Financial analytics dashboard for SAP Analytics Cloud&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#D5F1FF;strokeColor=#D5F1FF;align=left;verticalAlign=top;fontSize=14;" vertex="1" parent="E9SLaztuHiyUa4X3Wmyc-1">
+          <mxGeometry x="360" y="440" width="290" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
