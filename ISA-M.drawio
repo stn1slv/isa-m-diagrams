@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-27T12:03:37.746Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="y3PErDDmbaHJUlrBORu_" version="22.0.8" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2023-10-27T12:04:48.166Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="GBXt-wekD0pDIezsQKht" version="22.0.8" type="github" pages="6">
   <diagram name="IntegrationDomains" id="jsUwI5mRlKOwk8oIy3sb">
     <mxGraphModel dx="1434" dy="917" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
@@ -844,7 +844,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="uTgQOqDn22oYZFfBWTf3-16" value="&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;font color=&quot;#000000&quot; style=&quot;font-size: 16px;&quot;&gt;Chaining of business process steps between business applications by the exchange of transactional data.&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;br style=&quot;font-size: 16px;&quot;&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#FFFFFF;fillColor=#FFFFFF;strokeColor=#4FB81C;fontSize=16;shadow=1;align=center;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="uTgQOqDn22oYZFfBWTf3-16" value="&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;font color=&quot;#000000&quot;&gt;Chaining of business process steps between business partners by the exchange of transactional data leveraging standard B2B protocols.&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#FFFFFF;fillColor=#FFFFFF;strokeColor=#4FB81C;fontSize=16;shadow=1;align=center;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="680" y="100" width="290" height="320" as="geometry" />
         </mxCell>
         <mxCell id="uTgQOqDn22oYZFfBWTf3-17" value="" style="group" vertex="1" connectable="0" parent="1">
@@ -889,7 +889,7 @@
             <mxPoint x="830" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="uTgQOqDn22oYZFfBWTf3-29" value="&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;font color=&quot;#000000&quot; style=&quot;font-size: 16px;&quot;&gt;Chaining of business process steps between business applications by the exchange of transactional data.&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;br style=&quot;font-size: 16px;&quot;&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#FFFFFF;fillColor=#FFFFFF;strokeColor=#4FB81C;fontSize=16;shadow=1;align=center;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="uTgQOqDn22oYZFfBWTf3-29" value="&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;div&gt;&lt;font color=&quot;#000000&quot;&gt;Transform transactional data into predefined exchange formats and transfer it electronically to external legal or tax authority systems.&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#FFFFFF;fillColor=#FFFFFF;strokeColor=#4FB81C;fontSize=16;shadow=1;align=center;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="1000" y="100" width="290" height="320" as="geometry" />
         </mxCell>
         <mxCell id="uTgQOqDn22oYZFfBWTf3-30" value="" style="group" vertex="1" connectable="0" parent="1">
