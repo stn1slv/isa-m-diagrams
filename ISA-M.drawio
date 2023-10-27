@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-27T15:56:58.410Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="YXbWxyoTUSJfsw2aK2pP" version="22.0.8" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2023-10-27T15:57:29.027Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="UrAfz4P8iC62GwVRY1Le" version="22.0.8" type="github" pages="11">
   <diagram name="IntegrationDomains" id="jsUwI5mRlKOwk8oIy3sb">
     <mxGraphModel dx="1359" dy="867" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
@@ -947,6 +947,9 @@
         </mxCell>
         <mxCell id="bI6JYXXUXE7zfm9iPHxd-20" value="Technologies" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#737373;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="930" y="369" width="100" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="bI6JYXXUXE7zfm9iPHxd-21" value="Customer context" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#737373;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="325" y="443.5" width="350" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
