@@ -1,4 +1,4 @@
 # Linguist overrides
 *.drawio linguist-detectable=true
-*.drawio linguist-language=DrawIO
+*.drawio linguist-language=XML
 *.drawio linguist-documentation=false
