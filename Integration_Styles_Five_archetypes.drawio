@@ -1,9 +1,69 @@
-<mxfile host="app.diagrams.net" modified="2023-10-28T13:58:03.753Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" version="22.0.8" etag="PA2q0XAtTyVNFvBUfRUt" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-28T13:58:12.786Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="g5bqEoLY-0Q21MmDXHun" version="22.0.8" type="github">
   <diagram name="Page-1" id="Oj6DVOs9pbx1_dMxlbmc">
-    <mxGraphModel>
+    <mxGraphModel dx="906" dy="617" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="R-El61L-YfApgsZPMdx1-1" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Process Integration&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#FFFFFF;fillColor=#4FB81C;strokeColor=#4FB81C;" vertex="1" parent="1">
+          <mxGeometry x="20" y="20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="R-El61L-YfApgsZPMdx1-2" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Data &lt;br&gt;Integration&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#FFFFFF;fillColor=#F0AB00;strokeColor=#F0AB00;" vertex="1" parent="1">
+          <mxGeometry x="170" y="20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="R-El61L-YfApgsZPMdx1-3" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Analytics Integration&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#FFFFFF;fillColor=#4DC5FE;strokeColor=#4DC5FE;" vertex="1" parent="1">
+          <mxGeometry x="320" y="20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="R-El61L-YfApgsZPMdx1-4" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;User &lt;br&gt;Integration&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#FFFFFF;fillColor=#0275CB;strokeColor=#0275CB;" vertex="1" parent="1">
+          <mxGeometry x="470" y="20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="R-El61L-YfApgsZPMdx1-5" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Thing &lt;br&gt;Integration&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#FFFFFF;fillColor=#E35500;strokeColor=#E35500;" vertex="1" parent="1">
+          <mxGeometry x="620" y="20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="R-El61L-YfApgsZPMdx1-6" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;strokeWidth=1;strokeColor=#c5c5c5;fillColor=#E2E2E2;gradientColor=#FFFFFF;gradientDirection=radial;width=16;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="79.5" y="90" as="sourcePoint" />
+            <mxPoint x="79.5" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="R-El61L-YfApgsZPMdx1-7" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;strokeWidth=1;strokeColor=#c5c5c5;fillColor=#E2E2E2;gradientColor=#FFFFFF;gradientDirection=radial;width=16;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="229.5" y="90" as="sourcePoint" />
+            <mxPoint x="229.5" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="R-El61L-YfApgsZPMdx1-8" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;strokeWidth=1;strokeColor=#c5c5c5;fillColor=#E2E2E2;gradientColor=#FFFFFF;gradientDirection=radial;width=16;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="379.5" y="90" as="sourcePoint" />
+            <mxPoint x="379.5" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="R-El61L-YfApgsZPMdx1-9" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;strokeWidth=1;strokeColor=#c5c5c5;fillColor=#E2E2E2;gradientColor=#FFFFFF;gradientDirection=radial;width=16;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="529.5" y="90" as="sourcePoint" />
+            <mxPoint x="529.5" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="R-El61L-YfApgsZPMdx1-10" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;strokeWidth=1;strokeColor=#c5c5c5;fillColor=#E2E2E2;gradientColor=#FFFFFF;gradientDirection=radial;width=16;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="679.5" y="90" as="sourcePoint" />
+            <mxPoint x="679.5" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="R-El61L-YfApgsZPMdx1-11" value="&lt;span style=&quot;background-color: initial; font-size: 14px;&quot;&gt;How to chain business processes&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;across business applications?&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-size: 14px;&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#D6EDCB;strokeColor=#D6EDCB;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="20" y="150" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="R-El61L-YfApgsZPMdx1-12" value="&lt;div style=&quot;&quot;&gt;How to synchronize data between business applications?&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#FCEACB;strokeColor=#FCEACB;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="170" y="150" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="R-El61L-YfApgsZPMdx1-13" value="&lt;div style=&quot;&quot;&gt;&lt;div&gt;How to derive and expose analytical data for business insights from business applications?&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#d5f1ff;strokeColor=#D5F1FF;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="320" y="150" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="R-El61L-YfApgsZPMdx1-14" value="&lt;div style=&quot;&quot;&gt;&lt;div&gt;How to integrate user-centric applications with business applications?&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#C7DDF2;strokeColor=#C7DDF2;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="470" y="150" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="R-El61L-YfApgsZPMdx1-15" value="&lt;div style=&quot;&quot;&gt;&lt;div&gt;How to integrate real-world things with business applications?&amp;nbsp;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#FEDCC6;strokeColor=#FEDCC6;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="620" y="150" width="120" height="120" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
