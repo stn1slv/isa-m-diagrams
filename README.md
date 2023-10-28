@@ -30,10 +30,6 @@ The repository is organized into the following directories:
 
 Contributions to this project are welcome! If you have additional diagram templates, improvements, or updates that you would like to share, please feel free to create a pull request.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute the provided templates as needed.
-
 ## Acknowledgments
 
 This project is inspired by the SAP Integration Solution Advisory Methodology (ISA-M) and aims to make it easier for architects and designers to create integration diagrams.  Special thanks to the SAP community for their insights and support.
