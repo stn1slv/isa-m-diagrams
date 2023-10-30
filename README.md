@@ -8,16 +8,16 @@ This GitHub repository contains a collection of editable diagram templates in Dr
 
 The repository is organized into the following directories:
 
-- **Integration Domains**: Diagram templates related to different integration domains within the SAP ISA-M framework. 
+- **[Integration Domains](https://github.com/stn1slv/isa-m-diagrams/tree/main/Integration%20Domains)**: Diagram templates related to different integration domains within the SAP ISA-M framework. 
 ![Integration Domains in ISA-M](/.docs/images/Integration_Domains.svg)
 
-- **Integration Styles**: Templates that cover various integration styles and patterns used in SAP solutions.
+- **[Integration Styles](https://github.com/stn1slv/isa-m-diagrams/tree/main/Integration%20Styles)**: Templates that cover various integration styles and patterns used in SAP solutions.
 ![Integration Styles in ISA-M](/.docs/images/Integration_Styles_Cross_Use_Cases.svg)
 
-- **Use Case Patterns**: Templates for representing common use case patterns in SAP integration projects.
+- **[Use Case Patterns](https://github.com/stn1slv/isa-m-diagrams/tree/main/Use%20Case%20Patterns)**: Templates for representing common use case patterns in enteprise integration projects.
 ![Integration Patterns in ISA-M](/.docs/images/Integration_Styles_&_Use_Case_Patterns.svg)
 
-- **Technology Mapping**: Diagram templates focusing on the mapping of specific technologies to integration components and elements.
+- **[Technology Mapping](https://github.com/stn1slv/isa-m-diagrams/tree/main/Technology%20Mapping)**: Diagram templates focusing on the mapping of specific technologies to integration styles and patterns.
 
 ## How to Use
 
