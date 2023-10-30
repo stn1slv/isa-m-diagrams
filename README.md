@@ -2,7 +2,7 @@
 
 ## Overview
 
-This GitHub repository contains a collection of editable diagram templates in Draw.io format to support SAP Integration Solution Advisory Methodology (ISA-M). These templates are designed by SAP to help enterprise architects, solution designers, and integration specialists create high-quality integration diagrams for SAP solutions. By providing templates in Draw.IO format, this project ensures compatibility with various Enterprise Architecture tools that can import diagrams in this format.
+This GitHub repository contains a collection of editable diagram templates in Draw.io format to support SAP Integration Solution Advisory Methodology (ISA-M). These templates are designed by SAP to help enterprise architects, solution designers, and integration specialists create high-quality integration diagrams for SAP solutions. By providing templates in Draw.io format, this project ensures compatibility with various Enterprise Architecture tools that can import diagrams in this format.
 
 ## Project Structure
 
@@ -25,9 +25,9 @@ The repository is organized into the following directories:
 
 2. **Choose a Template**: Browse the relevant directory based on your integration needs and select the template that best fits your requirements.
 
-3. **Edit with Draw.IO**: Open the chosen template with Draw.IO, a popular online diagramming tool. Customize the diagram by adding, modifying, or removing elements to align it with your specific SAP integration scenario.
+3. **Edit with Draw.io**: Open the chosen template with Draw.io, a popular online diagramming tool. Customize the diagram by adding, modifying, or removing elements to align it with your specific SAP integration scenario.
 
-4. **Export and Integrate**: Once your diagram is ready, export it from Draw.IO in your preferred format, and integrate it into your Enterprise Architecture tool.
+4. **Export and Integrate**: Once your diagram is ready, export it from Draw.io in your preferred format, and integrate it into your Enterprise Architecture tool.
 
 ## Contributing
 
